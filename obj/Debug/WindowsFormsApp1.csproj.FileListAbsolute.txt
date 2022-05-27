@@ -1,0 +1,30 @@
+C:\Users\Usuario\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Usuario\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Usuario\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.init.resources
+C:\Users\Usuario\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\work\asp.net C#\CSharp-Calculator-master\bin\Debug\WindowsFormsApp1.exe.config
+D:\work\asp.net C#\CSharp-Calculator-master\bin\Debug\WindowsFormsApp1.exe
+D:\work\asp.net C#\CSharp-Calculator-master\bin\Debug\WindowsFormsApp1.pdb
+D:\work\asp.net C#\CSharp-Calculator-master\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\work\asp.net C#\CSharp-Calculator-master\obj\Debug\WindowsFormsApp1.init.resources
+D:\work\asp.net C#\CSharp-Calculator-master\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\work\asp.net C#\CSharp-Calculator-master\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\work\asp.net C#\CSharp-Calculator-master\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\work\asp.net C#\CSharp-Calculator-master\obj\Debug\WindowsFormsApp1.exe
+D:\work\asp.net C#\CSharp-Calculator-master\obj\Debug\WindowsFormsApp1.pdb
+D:\work\asp.net C#\CSharp-Calculator\bin\Debug\WindowsFormsApp1.exe.config
+D:\work\asp.net C#\CSharp-Calculator\bin\Debug\WindowsFormsApp1.exe
+D:\work\asp.net C#\CSharp-Calculator\bin\Debug\WindowsFormsApp1.pdb
+D:\work\asp.net C#\CSharp-Calculator\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\work\asp.net C#\CSharp-Calculator\obj\Debug\WindowsFormsApp1.init.resources
+D:\work\asp.net C#\CSharp-Calculator\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\work\asp.net C#\CSharp-Calculator\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\work\asp.net C#\CSharp-Calculator\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\work\asp.net C#\CSharp-Calculator\obj\Debug\WindowsFormsApp1.exe
+D:\work\asp.net C#\CSharp-Calculator\obj\Debug\WindowsFormsApp1.pdb
